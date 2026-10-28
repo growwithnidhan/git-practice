@@ -1,8 +1,9 @@
 # Practice file for github
 
 def greet(name):
-    return f"Hi {name}"
 
+    return f"Hello {name}"
+    
 print(greet("Nidhan"))
 
 
