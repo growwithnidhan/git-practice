@@ -1,3 +1,5 @@
+# Practice file for github
+
 def greet(name):
     return f"welcome {name}"
 
